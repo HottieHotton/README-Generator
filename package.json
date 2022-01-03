@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This project is designed to generate a user-friendly professional README file for a program that they want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HottieHotton/README-Generator.git"
+  },
+  "author": "Braxton Hotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HottieHotton/README-Generator/issues"
+  },
+  "homepage": "https://github.com/HottieHotton/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
