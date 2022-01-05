@@ -1,47 +1,46 @@
-# Testing ![badge](https://img.shields.io/badge/license-MIT-blue)<br/>
+# iugiu ![badge](https://img.shields.io/badge/license-BSD3-blue)<br/>
 
   ## Table of Contents
   --------------------
   - [Description](#description)
   - [Installations](#installation)
-  - [Usage](#Usage)
-  - [Contributing](#contributions)
+  - [Usage](#usage)
+  - [Contributing](#contribution)
   - [Tests](#testing)
   - [License](#licenses)
   - [Questions](#contact)
 
   ## Description
   --------------
-  I don't wanna
+  oionoino
 
   ## Installation
   ---------------
   No specific installation instructions required for this repo!
 
-  ## Usage Instructions
+  ## Usage
   ---------------------
-  undefined
+  There are no usage instructions needed for this project, just hit run and follow prompts!
 
-  ## Contribution Guidelines
+  ## Contribution
   --------------------------
-  undefined
+  Contribution is not allowed on this repo!
 
-  ## Testing Guidelines
+  ## Testing
   ---------------------
-  undefined
+  No Testing Allowed in this program!
 
-  ## Licenses Used
+  ## Licenses
   ----------------
-  ## License
-  ![badge](https://img.shields.io/badge/license-MIT-blue)
+  ![badge](https://img.shields.io/badge/license-BSD3-blue)
   <br/>
-  This application is licensed by these groups: <br/> MIT
+  This application is licensed by: <br/> BSD3
 
-  https://opensource.org/licenses/MIT
+  https://opensource.org/licenses/BSD-3-Clause
 
-  ## Contact Me!
+  ## Contact!
   --------------
-  no
+  dkdk
   
   GitHub: [HottieHotton](https://github.com/HottieHotton)
 
