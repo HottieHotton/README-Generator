@@ -23,8 +23,11 @@
   Open a terminal for the index.js code and run node index.js and follow instructions following!
 
   Watch this video of how to run the program after opening it!
-  (Delete this part after you have inputted your video on your readme, or just remove
-  the entire section if you don't need a video for your repo!)
+  
+
+https://user-images.githubusercontent.com/74873819/148662515-8665c524-d289-4b28-ad77-dcde0972190d.mp4
+
+
 
   ## Contribution
   --------------------------
