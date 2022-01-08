@@ -1,4 +1,4 @@
-# iugiu ![badge](https://img.shields.io/badge/license-BSD3-blue)<br/>
+# New Project ![badge](https://img.shields.io/badge/license-None-blue)<br/>
 
   ## Table of Contents
   --------------------
@@ -12,7 +12,7 @@
 
   ## Description
   --------------
-  oionoino
+  This program is to show how the README Generator works
 
   ## Installation
   ---------------
@@ -20,7 +20,11 @@
 
   ## Usage
   ---------------------
-  There are no usage instructions needed for this project, just hit run and follow prompts!
+  Open a terminal for the index.js code and run node index.js and follow instructions following!
+
+  Watch this video of how to run the program after opening it!
+  (Delete this part after you have inputted your video on your readme, or just remove
+  the entire section if you don't need a video for your repo!)
 
   ## Contribution
   --------------------------
@@ -32,17 +36,17 @@
 
   ## Licenses
   ----------------
-  ![badge](https://img.shields.io/badge/license-BSD3-blue)
+  ![badge](https://img.shields.io/badge/license-None-blue)
   <br/>
-  This application is licensed by: <br/> BSD3
+  This application is licensed by: <br/> None
 
-  https://opensource.org/licenses/BSD-3-Clause
+  
 
   ## Contact!
   --------------
-  dkdk
+  Please message or email me to contact me!
   
   GitHub: [HottieHotton](https://github.com/HottieHotton)
 
-  Email: [Gmail](mailto:bhotton25@gmail.com)
+  Email: [Gmail](mailto:name@example.com)
 
